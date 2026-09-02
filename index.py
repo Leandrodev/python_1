@@ -29,4 +29,6 @@ print("A" * 4 + "B")#AAAB
 print("python" + "!" * 3)# python!!!
 print("=" * 5 + "python" + "=" * 5)#=====python=====
 
+print("=" * 5 + "python" + "=" * 5)
+
 
